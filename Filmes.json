@@ -1,0 +1,34 @@
+[
+  {
+    "Nome": "Matrix",
+    "AnoLancamento": 1993,
+    "IncluidoNoPlano": false,
+    "SomaAvaliacoes": 0.0,
+    "TotalAvaliacoes": 0,
+    "DuracaoMinutos": 60
+  },
+  {
+    "Nome": "Creed",
+    "AnoLancamento": 2015,
+    "IncluidoNoPlano": false,
+    "SomaAvaliacoes": 0.0,
+    "TotalAvaliacoes": 0,
+    "DuracaoMinutos": 13
+  },
+  {
+    "Nome": "Iron Man",
+    "AnoLancamento": 2008,
+    "IncluidoNoPlano": false,
+    "SomaAvaliacoes": 0.0,
+    "TotalAvaliacoes": 0,
+    "DuracaoMinutos": 12
+  },
+  {
+    "Nome": "Barbie",
+    "AnoLancamento": 2023,
+    "IncluidoNoPlano": false,
+    "SomaAvaliacoes": 0.0,
+    "TotalAvaliacoes": 0,
+    "DuracaoMinutos": 11
+  }
+]
